@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+  background-color: #f8f8f8;
+  color: #333;
+  padding: 50px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
